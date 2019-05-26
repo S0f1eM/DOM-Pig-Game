@@ -1,5 +1,5 @@
 # DOM-Pig-Game
-Rolling dices game - manipulating DOM and JavaScript.
+PIG game - manipulating DOM and JavaScript.
 
 Exercice/training to manipulate the DOM and using JS.
 
