@@ -4,4 +4,5 @@ PIG game - manipulating DOM and JavaScript.
 Exercice/training to manipulate the DOM and using JS.
 
 PIG GAME rules : 
-2 players play in rounds. In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score. But, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn. The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn. The first player to reach 100 points on GLOBAL score wins the game.
+The game has 2 players and is played in rounds. In each turn, a player rolls two dices as many times as he whishes. Each result get added to his current score. The player can choose to 'Hold', which means that his current score gets added to his global score. But, if the player rolls a 1 before he hold, all his current score gets lost. 
+After that, it's the next player's turn. The first player to reach 100 points on global score wins the game.
