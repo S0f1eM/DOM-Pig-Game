@@ -22,9 +22,6 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
 	let dice = Math.floor(Math.random() * 6) + 1;
 	let dice2 = Math.floor(Math.random() * 6) + 1;
 
-	console.log("jet " + dice);
-	console.log("jet " + dice2);
-	console.log("previous " + prevDice); 
 	//display the result
 	let diceDOM = document.querySelector('.dice');
 	let dice2DOM = document.querySelector('.dice2');
